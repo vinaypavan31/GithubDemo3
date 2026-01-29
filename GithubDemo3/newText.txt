@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THIS IS FROM ECLIPSE
+=======
+this is created from github
+>>>>>>> branch 'master' of https://github.com/vinaypavan31/GithubDemo3.git
